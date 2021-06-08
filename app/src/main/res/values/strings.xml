@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReflexTest</string>
+    <string name="to_soon">TOO SOON!!!</string>
+    <string name="no_highscore">Highscore: /</string>
+    <string name="highscore">Highscore: %1$o ms</string>
+    <string name="score">Score: %1$o ms</string>
+    <string name="tap">Tap!!!</string>
+    <string name="winner">Winner!!!</string>
+    <string name="looser">Loser&#8230;</string>
+    <string name="wait">Wait for the blue color</string>
+    <string name="versus">Versus</string>
+    <string name="solo">Solo</string>
+    <string name="zero">0</string>
+    <string name="retry">Retry</string>
+    <string name="change">Change Gamemode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

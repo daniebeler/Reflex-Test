@@ -20,8 +20,6 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.core.content.ContextCompat;
 import androidx.fragment.app.Fragment;
 
-import com.example.agando.reflextest.R;
-
 import java.util.Random;
 
 public class PlayFragment extends Fragment {
